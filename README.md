@@ -15,4 +15,4 @@ cobalt strike的http beacon很容易被查杀，这里用wininet和winhttp写了
 ![](https://github.com/fgfxf/HttpStageDownloader/blob/main/2.png) <br>
 ![](https://github.com/fgfxf/HttpStageDownloader/blob/main/3.png) <br>
 ![](https://github.com/fgfxf/HttpStageDownloader/blob/main/4.png) <br>
-
+![可以正常上线，但是有黑框](https://github.com/fgfxf/HttpStageDownloader/blob/main/5.png) <br>
