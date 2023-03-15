@@ -11,5 +11,8 @@ cobalt strike的http beacon很容易被查杀，这里用wininet和winhttp写了
     const WCHAR* szUrlPath = L"/async/Newtab_promos";<br>
     const char* szFileName = "stage.bin";<br>
 自己根据profile文件进行修改.<br>
-
+![](https://github.com/fgfxf/HttpStageDownloader/blob/main/1.png) <br>
+![](https://github.com/fgfxf/HttpStageDownloader/blob/main/2.png) <br>
+![](https://github.com/fgfxf/HttpStageDownloader/blob/main/3.png) <br>
+![](https://github.com/fgfxf/HttpStageDownloader/blob/main/4.png) <br>
 
